@@ -5,4 +5,8 @@
     http://www.springframework.org/schema/beans/spring-beans.xsd">
 
     <bean id="student" class="com.example.Student">
-        < 
+        <property name="studentId" value="1" />
+        <property name="firstName" value="John" />
+        <property name="lastName" value="Doe" />
+    </bean>
+</ 
