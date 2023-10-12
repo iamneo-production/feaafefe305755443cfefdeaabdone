@@ -9,4 +9,4 @@
         <property name="firstName" value="John" />
         <property name="lastName" value="Doe" />
     </bean>
-</ 
+</beans> 
